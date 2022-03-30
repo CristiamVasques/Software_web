@@ -3,10 +3,10 @@ Apresentado no Projeto Integrador I (2021 7º e 8º bimestres) - UNIVESP
 Turma de 2020 - Eixo da Computação.
 
 **Grupo composto por:**
-Andreia Maria da Silva Ramos, RA: 2015234
-Caroline Azevedo de Jesus Machado, RA: 2014157
-Cristiam Vasques, RA: 2000904
-Jefferson Souza Silva, RA: 2003334
-Júlio Cesar Ardito, RA: 2009569
-Marcos Alberto Stanischesk Molnar, RA: 2006748
-Ricardo Tetsuo Kitamura, RA: 2015936
+- Andreia Maria da Silva Ramos, RA: 2015234
+- Caroline Azevedo de Jesus Machado, RA: 2014157
+- Cristiam Vasques, RA: 2000904
+- Jefferson Souza Silva, RA: 2003334
+- Júlio Cesar Ardito, RA: 2009569
+- Marcos Alberto Stanischesk Molnar, RA: 2006748
+- Ricardo Tetsuo Kitamura, RA: 2015936
