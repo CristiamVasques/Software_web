@@ -1,5 +1,6 @@
 # *Software_web para abertura de chamados* 
 Apresentado no Projeto Integrador I (2021 7º e 8º bimestres) - UNIVESP
+Atualizado com recurso de acessibilidade e API no Projeto Integrador II (2022 9º e 10º bimestres) - UNIVESP
 Turma de 2020 - Eixo da Computação.
 
 **Grupo composto por:**
